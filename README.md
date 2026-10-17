@@ -44,8 +44,8 @@ An open-weight AI micro-SaaS designed to stop scope creep and unpaid labor for i
    pip install -r requirements.txt
    
 3. **Run the Streamlit App:**
-  ```bash
-  python -m streamlit run app.py
+   ```bash
+   python -m streamlit run app.py
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
